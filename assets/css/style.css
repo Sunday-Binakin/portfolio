@@ -3,7 +3,7 @@
     flex-direction: row;
     justify-content: space-around;
     background-color: #0D86F8;
-    height: 71%;
+    height: 80px;
 
     align-items: center;
  }
@@ -37,8 +37,8 @@
 font-size: 16px;
  }
 
- .hero-info{
+ /* .hero-info{
 width: 50%;
 padding-top: 48px;
 
- }
+ } */
